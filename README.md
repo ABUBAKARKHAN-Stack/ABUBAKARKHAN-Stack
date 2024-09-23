@@ -28,6 +28,7 @@ A fun and interactive number guessing game built with JavaScript. The user tries
 📈 What I'm Currently Learning:
 Backend Development
 Next.js
+
 🎯 Future Goals:
 Build a full-stack application utilizing Node.js and Express for the backend.
 Enhance my skills in database management (SQL and NoSQL).
