@@ -34,4 +34,50 @@ I’m driven by **precision, performance, and problem-solving.**
 **Tools & Workflow:**  
 🔧 Git, Vercel, Netlify, Render, Postman, VS Code
 
-**Developme**
+**Development Philosophy:**  
+💡 Clean Code Principles (DRY, SOLID), Atomic Design Pattern, Reusability, SSR/SSG, Scalable Architecture
+
+---
+
+## 🌐 Featured Projects
+
+### 🏬 [ShopNex](https://github.com/ABUBAKARKHAN-Stack/shopnex) — Full-Stack E-Commerce Platform (MERN + TypeScript + Microservices)
+A large-scale, **microservices-based e-commerce system** built with 5 services (**User, Admin, Product, Order, Activity**) + Gateway.  
+- Uses **Kafka**, **Redis**, **Stripe**, **JWT**, and **TanStack Query** for seamless communication and performance.  
+- **Refactored 9K+ lines of code in one day** to enhance scalability and maintainability.  
+
+---
+
+### 🎓 [Learnix LMS](https://github.com/ABUBAKARKHAN-Stack/learnix)
+A **role-based Learning Management System** featuring quizzes, dashboards, Stripe payments, and admin controls.  
+Includes **secure authentication**, **progress tracking**, and **modern UI**.
+
+---
+
+## 📈 Currently Focused On
+
+- 🚀 Scaling apps using **microservices architecture**  
+- 🐳 Containerizing projects with **Docker**  
+- 🐍 Learning **Python and Gen AI** for automation and backend scripting  
+- ⚙️ Exploring **DevOps, CI/CD**, and **system design**
+
+---
+
+## 🎯 Future Goals
+
+- 🚀 Take **CodePeria** to the next level of success  
+- ☁️ Master **Kubernetes**, **Redis**, and **cloud deployments**  
+- 🌍 Contribute to **open-source** and scalable systems  
+- 🤖 Develop **AI + Python-powered productivity tools**
+
+---
+
+## 📫 Let’s Connect
+
+🌐 **Startup:** [codeperia.com](https://codeperia.com)  
+📧 **Email:** [abubakarxd7@gmail.com](mailto:abubakarxd7@gmail.com)  
+💼 **LinkedIn:** [Abubakar Aijaz](https://www.linkedin.com/in/abubakar-aijaz-dev)  
+🐙 **GitHub:** [ABUBAKARKHAN-Stack](https://github.com/ABUBAKARKHAN-Stack)  
+---
+
+> 💬 “Refactor. Rebuild. Reinvent — that’s how real developers evolve.” 🚀
