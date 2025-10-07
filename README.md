@@ -1,78 +1,78 @@
-# 🌟 Abubakar Aijaz — Full-Stack Web Developer 🌟
+🌟 Abubakar Aijaz — Full-Stack Developer (Next.js | MERN | TypeScript | Microservices) 🌟
 
-Hey there! 👋 I'm **Abubakar Aijaz**, a passionate **Full-Stack MERN & Next.js Developer** from Karachi, Pakistan. I’m currently pursuing my intermediate studies while building real-world, production-ready applications using modern web technologies.
+Hey there! 👋 I’m Abubakar Aijaz, a passionate Full-Stack Developer from Karachi, Pakistan. I recently completed my Intermediate studies and am currently taking a 1-year gap before university to focus entirely on building advanced, production-ready applications and sharpening my technical expertise.
 
----
+I specialize in Next.js, TypeScript, and the MERN stack, creating scalable, high-performance web apps with clean architecture and modern development practices. I’m driven by precision, performance, and problem-solving.
 
-## 🚀 About Me
+🚀 About Me
 
-I specialize in developing **full-stack applications** using **Next.js** as a powerful framework for both frontend and backend — from RESTful APIs to authentication and server-side rendering.
+I’ve mastered Next.js as a full-stack framework, seamlessly handling both frontend and backend — from SSR/SSG rendering to API routes and authentication flows.
+Recently, I refactored over 9,000 lines of code in a single day while optimizing my flagship project ShopNex, improving structure, scalability, and performance.
 
-I love solving complex problems, leading projects, and writing clean, scalable code that powers real products.  
-As the founder of **Vogue Virsa**, I’m combining my technical skills and entrepreneurial mindset to build something meaningful.
+As a Co-Founder of CodePeria
+, I lead and contribute to projects that turn innovative ideas into real-world, production-grade software.
 
----
+💼 Skills & Tech Stack
 
-## 💼 Skills & Technologies
+Languages:
+TypeScript, JavaScript (ES6+), HTML5, CSS3, Python (Learning)
 
-**Languages:**  
-HTML5, CSS3, JavaScript (ES6+), TypeScript
+Frontend:
+Next.js (Full-Stack), React.js, Tailwind CSS, ShadCN/UI, Redux Toolkit, React Hook Form, Zod, Framer Motion, GSAP
 
-**Frontend:**  
-React.js, Next.js (Full-Stack), Tailwind CSS, Redux Toolkit, GSAP, Styled Components, Lenis
+Backend:
+Node.js, Express.js, MongoDB, Redis, Kafka, Stripe (API + Webhooks), AppWrite, REST APIs
 
-**Backend:**  
-Node.js, Express.js, MongoDB, Appwrite, REST APIs
+Architecture & DevOps:
+Microservices, Docker, API Gateway, Authentication & Authorization, Caching, Nginx (Basic), Email Automation
 
-**Dev Tools:**  
-Git, Vite, Docker, Netlify, Vercel, Stripe
+Tools & Workflow:
+Git, Vercel, Netlify, Render, Postman, VS Code
 
-**Dev Approach:**  
-Clean Code, DRY Principle, Component Reusability, Mobile-First, SSR/SSG, API Integration
+Development Philosophy:
+Clean Code Principles (DRY, SOLID), Atomic Design Pattern, Reusability, SSR/SSG, Scalable Architecture
 
----
+🌐 Featured Projects
+🏬 ShopNex — Full-Stack E-Commerce Platform (MERN + TypeScript + Microservices)
 
-## 🌐 Featured Projects
+A large-scale, microservices-based e-commerce system built with 5 services (User, Admin, Product, Order, Activity) + Gateway.
+Uses Kafka, Redis, Stripe, JWT, and TanStack Query for seamless communication and performance.
+Refactored 9K+ lines of code in one day to enhance scalability.
+GitHub Repo
 
-### 🔹 [ToDoMaster](https://abubakartodo.netlify.app/)
-> A clean and responsive Todo App with local storage, task filtering, and smooth UX. Built using React.js.
+🎓 Learnix LMS
 
-### 🔹 [Quick Blog](https://quick-blog-zeta.vercel.app/)
-> A powerful blog platform with full CRUD, authentication, Appwrite BaaS, and Tailwind UI. Ideal for writers and developers alike.
+Role-based Learning Management System with quizzes, dashboards, Stripe payments, and admin controls.
+GitHub Repo
 
-### 🔹 [Earth Stats](https://earth-stats.vercel.app/)
-> Explore global stats like population and climate using Axios, React Router, and GSAP animations. Data-rich and responsive.
+📈 Currently Focused On
 
-### 🔹 [Learnix LMS (MERN)](https://github.com/ABUBAKARKHAN-Stack/learnix)
-> A role-based Learning Management System with admin panel, quizzes, payment integration, and dashboards. Built using full MERN stack and Stripe.
+Scaling apps using microservices architecture
 
----
+Containerizing projects with Docker
 
-## 📈 Currently Focused On
+Learning Python for automation and backend scripting
 
-- Scaling full-stack apps with **Next.js API Routes** and SSR/SSG
-- Containerizing apps using **Docker**
-- Backend development with **Node.js + TypeScript**
-- Learning advanced **system design & DevOps workflows**
+Exploring DevOps, CI/CD, and system design
 
----
+🎯 Future Goals
 
-## 🎯 Future Goals
+Take CodePeria to the next level of success 🚀
 
-- Master Python  
-- Contribute to open-source projects  
-- Master CI/CD, Redis, WebSockets, and GraphQL  
-- Build a dynamic full-stack portfolio with blogging and admin features
+Master Kubernetes, Redis, and cloud deployments
 
----
+Contribute to open-source and scalable systems
 
-## 📫 Let’s Connect
+Develop AI + Python-powered productivity tools
 
-- 📧 Email: [abubakarxd7@gmail.com](mailto:abubakarxd7@gmail.com)  
-- 🔗 Portfolio: [codewithabubakar.netlify.app](https://codewithabubakar.netlify.app)  
-- 💼 LinkedIn: [Abubakar Aijaz](https://www.linkedin.com/in/abubakar-aijaz-dev)  
-- 🐙 GitHub: [@ABUBAKARKHAN-Stack](https://github.com/ABUBAKARKHAN-Stack)
+📫 Let’s Connect
 
----
+🌐 Startup: codeperia.com
 
-> _"Code smart. Think big. Build real."_ 🚀
+📧 Email: abubakarxd7@gmail.com
+
+💼 LinkedIn: Abubakar Aijaz
+
+🐙 GitHub: ABUBAKARKHAN-Stack
+
+“Refactor. Rebuild. Reinvent — that’s how real developers evolve.” 🚀
