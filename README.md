@@ -1,83 +1,18 @@
-# 🌟 Abubakar Aijaz — Full-Stack Developer (Next.js | MERN | TypeScript | Microservices) 🌟
+# 💫 About Me:
+I’m Abubakar Aijaz, a full-stack JavaScript developer focused on building clean, scalable, and production-ready applications. I work heavily with TypeScript, Next.js, React, and the MERN stack, and I enjoy designing optimized backend systems using tools like Docker, Kafka, Redis, and microservices architecture.<br><br>I’ve built multiple real-world projects — from advanced dashboards and full CRUD apps to a complete microservices-based ecommerce platform. I’m also the Co-Founder & CEO of Codeperia, where I work on creative digital products and solutions.<br><br>Currently learning Python Frameworks (Django, FastApi) and exploring the DevOps world to strengthen my full-stack engineering skills even further. I love taking complex ideas and turning them into polished, functional products.
 
-Hey there! 👋  
-I’m **Abubakar Aijaz**, a passionate **Full-Stack Developer** from **Karachi, Pakistan**.  
-I recently completed my **Intermediate studies** and am currently taking a **1-year gap before university** to focus entirely on building **advanced, production-ready applications** and sharpening my technical expertise.
 
-I specialize in **Next.js**, **TypeScript**, and the **MERN stack**, creating scalable, high-performance web apps with clean architecture and modern development practices.  
-I’m driven by **precision, performance, and problem-solving.**
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abubakar.tanoli.961) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abubakar_aijaz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abubakar-aijaz-dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abubakar_stacky) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abubakar123456654123@gmail.com) 
 
----
-
-## 🚀 About Me
-
-- 🧠 Mastered **Next.js** as a full-stack framework — handling both frontend and backend, from **SSR/SSG rendering** to **API routes** and **authentication flows**.  
-- ⚡ Recently **refactored over 9,000+ lines of code in one day** while optimizing my flagship project **ShopNex**, improving structure, scalability, and performance.  
-- 💼 As a **Co-Founder of [CodePeria](https://codeperia.com)**, I lead and contribute to projects that turn innovative ideas into real-world, production-grade software.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ABUBAKARKHAN-Stack&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ABUBAKARKHAN-Stack&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABUBAKARKHAN-Stack&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ABUBAKARKHAN-Stack&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💼 Skills & Tech Stack
-
-**Languages:**  
-🟦 TypeScript, 🟨 JavaScript (ES6+), 🧱 HTML5, 🎨 CSS3, 🐍 Python (Learning)
-
-**Frontend:**  
-⚛️ Next.js (Full-Stack), React.js, Tailwind CSS, ShadCN/UI, Redux Toolkit, React Hook Form, Zod, Framer Motion, GSAP
-
-**Backend:**  
-🧩 Node.js, Express.js, MongoDB, Redis, Kafka, Stripe (API + Webhooks), AppWrite, REST APIs
-
-**Architecture & DevOps:**  
-🧱 Microservices, Docker, API Gateway, Authentication & Authorization, Caching, Nginx (Basic), Email Automation
-
-**Tools & Workflow:**  
-🔧 Git, Vercel, Netlify, Render, Postman, VS Code
-
-**Development Philosophy:**  
-💡 Clean Code Principles (DRY, SOLID), Atomic Design Pattern, Reusability, SSR/SSG, Scalable Architecture
-
----
-
-## 🌐 Featured Projects
-
-### 🏬 [ShopNex](https://github.com/ABUBAKARKHAN-Stack/shopnex) — Full-Stack E-Commerce Platform (MERN + TypeScript + Microservices)
-A large-scale, **microservices-based e-commerce system** built with 5 services (**User, Admin, Product, Order, Activity**) + Gateway.  
-- Uses **Kafka**, **Redis**, **Stripe**, **JWT**, and **TanStack Query** for seamless communication and performance.  
-- **Refactored 9K+ lines of code in one day** to enhance scalability and maintainability.  
-
----
-
-### 🎓 [Learnix LMS](https://github.com/ABUBAKARKHAN-Stack/learnix)
-A **role-based Learning Management System** featuring quizzes, dashboards, Stripe payments, and admin controls.  
-Includes **secure authentication**, **progress tracking**, and **modern UI**.
-
----
-
-## 📈 Currently Focused On
-
-- 🚀 Scaling apps using **microservices architecture**  
-- 🐳 Containerizing projects with **Docker**  
-- 🐍 Learning **Python and Gen AI** for automation and backend scripting  
-- ⚙️ Exploring **DevOps, CI/CD**, and **system design**
-
----
-
-## 🎯 Future Goals
-
-- 🚀 Take **CodePeria** to the next level of success  
-- ☁️ Master **Kubernetes**, **Redis**, and **cloud deployments**  
-- 🌍 Contribute to **open-source** and scalable systems  
-- 🤖 Develop **AI + Python-powered productivity tools**
-
----
-
-## 📫 Let’s Connect
-
-🌐 **Startup:** [codeperia.com](https://codeperia.com)  
-📧 **Email:** [abubakarxd7@gmail.com](mailto:abubakarxd7@gmail.com)  
-💼 **LinkedIn:** [Abubakar Aijaz](https://www.linkedin.com/in/abubakar-aijaz-dev)  
-🐙 **GitHub:** [ABUBAKARKHAN-Stack](https://github.com/ABUBAKARKHAN-Stack)  
----
-
-> 💬 “Refactor. Rebuild. Reinvent — that’s how real developers evolve.” 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
