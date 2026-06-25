@@ -1,35 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0D1117,100:FF6B1A&height=220&section=header&text=Abubakar%20Aijaz&fontSize=58&fontColor=F4E8D8&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20Co-Founder%20%26%20CTO%20%7C%20Systems%20%26%20AI&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:080C0A,100:ABC7A3&height=220&section=header&text=Abubakar%20Aijaz&fontSize=58&fontColor=E9ECE9&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20Co-Founder%20%26%20CTO%20%7C%20Systems%20%26%20AI&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
 </div>
 
 ### `$ whoami`
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=1000&color=FF6B1A&background=0D1117&center=true&vCenter=true&width=900&height=110&lines=const+dev+%3D+%7B+role%3A+%22Full-Stack+Engineer+%2B+CTO%22+%7D%3B;stack%3A+%5B%22MERN%22%2C+%22Next.js%22%2C+%22Python%22%2C+%22Kafka%22%2C+%22Docker%22%5D;building%3A+ShopNex+%E2%80%94+microservices+e-commerce+engine;leading%3A+Codeperia+%26+T-Solutionz+as+Co-Founder%2FCTO;exploring%3A+Gen+AI+%2B+Agentic+AI+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=1000&color=ABC7A3&background=080C0A&center=true&vCenter=true&width=900&height=110&lines=const+dev+%3D+%7B+role%3A+%22Full-Stack+Engineer+%2B+CTO%22+%7D%3B;stack%3A+%5B%22MERN%22%2C+%22Next.js%22%2C+%22Python%22%2C+%22Kafka%22%2C+%22Docker%22%5D;building%3A+ShopNex+%E2%80%94+microservices+e-commerce+engine;leading%3A+Codeperia+%26+T-Solutionz+as+Co-Founder%2FCTO;exploring%3A+Gen+AI+%2B+Agentic+AI+systems" alt="Typing SVG" />
 
 <div align="center">
 
-![Location](https://img.shields.io/badge/Location-Karachi,_Pakistan-0D1117?style=flat-square&logo=mapbox&logoColor=FF6B1A&labelColor=0D1117)
-![Education](https://img.shields.io/badge/Education-Computer_Science-0D1117?style=flat-square&logo=googlescholar&logoColor=FF6B1A&labelColor=0D1117)
-![Experience](https://img.shields.io/badge/Experience-3%2B_Years-0D1117?style=flat-square&logo=clockify&logoColor=FF6B1A&labelColor=0D1117)
+![Location](https://img.shields.io/badge/Location-Karachi,_Pakistan-080C0A?style=flat-square&logo=mapbox&logoColor=ABC7A3&labelColor=080C0A)
+![Education](https://img.shields.io/badge/Education-Computer_Science-080C0A?style=flat-square&logo=googlescholar&logoColor=ABC7A3&labelColor=080C0A)
+![Experience](https://img.shields.io/badge/Experience-3%2B_Years-080C0A?style=flat-square&logo=clockify&logoColor=ABC7A3&labelColor=080C0A)
 
 </div>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF6B1A?style=for-the-badge&logo=googlechrome&logoColor=0D1117)](https://codewithabubakar.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FF6B1A?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://www.linkedin.com/in/abubakar-aijaz-dev)
-[![Email](https://img.shields.io/badge/EMAIL-FF6B1A?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:abubakar123456654123@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-FF6B1A?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/ABUBAKARKHAN-Stack)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ABC7A3?style=for-the-badge&logo=googlechrome&logoColor=080C0A)](https://codewithabubakar.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ABC7A3?style=for-the-badge&logo=linkedin&logoColor=080C0A)](https://www.linkedin.com/in/abubakar-aijaz-dev)
+[![Email](https://img.shields.io/badge/EMAIL-ABC7A3?style=for-the-badge&logo=gmail&logoColor=080C0A)](mailto:abubakar123456654123@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-ABC7A3?style=for-the-badge&logo=github&logoColor=080C0A)](https://github.com/ABUBAKARKHAN-Stack)
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ABUBAKARKHAN-Stack&color=FF6B1A&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/ABUBAKARKHAN-Stack?color=FF6B1A&style=flat-square&label=FOLLOWERS&labelColor=0D1117)
-![Stars](https://img.shields.io/github/stars/ABUBAKARKHAN-Stack?color=FF6B1A&style=flat-square&label=STARS&labelColor=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=ABUBAKARKHAN-Stack&color=ABC7A3&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/ABUBAKARKHAN-Stack?color=ABC7A3&style=flat-square&label=FOLLOWERS&labelColor=080C0A)
+![Stars](https://img.shields.io/github/stars/ABUBAKARKHAN-Stack?color=ABC7A3&style=flat-square&label=STARS&labelColor=080C0A)
 
 </div>
 
@@ -77,10 +77,10 @@ const dev = {
 
 <div align="center">
 
-![Microservices](https://img.shields.io/badge/Microservices_Architecture-0D1117?style=for-the-badge&logo=apachekafka&logoColor=FF6B1A&labelColor=0D1117&color=1A1F26)
-![Event-Driven](https://img.shields.io/badge/Event--Driven_Systems-0D1117?style=for-the-badge&logo=apache&logoColor=FF6B1A&labelColor=0D1117&color=1A1F26)
-![Gen AI](https://img.shields.io/badge/Gen_AI_%26_Agentic_AI-0D1117?style=for-the-badge&logo=openai&logoColor=FF6B1A&labelColor=0D1117&color=1A1F26)
-![Scalable Backend](https://img.shields.io/badge/Scalable_Backend_Design-0D1117?style=for-the-badge&logo=serverless&logoColor=FF6B1A&labelColor=0D1117&color=1A1F26)
+![Microservices](https://img.shields.io/badge/Microservices_Architecture-080C0A?style=for-the-badge&logo=apachekafka&logoColor=ABC7A3&labelColor=080C0A&color=0F1512)
+![Event-Driven](https://img.shields.io/badge/Event--Driven_Systems-080C0A?style=for-the-badge&logo=apache&logoColor=ABC7A3&labelColor=080C0A&color=0F1512)
+![Gen AI](https://img.shields.io/badge/Gen_AI_%26_Agentic_AI-080C0A?style=for-the-badge&logo=openai&logoColor=ABC7A3&labelColor=080C0A&color=0F1512)
+![Scalable Backend](https://img.shields.io/badge/Scalable_Backend_Design-080C0A?style=for-the-badge&logo=serverless&logoColor=ABC7A3&labelColor=080C0A&color=0F1512)
 
 </div>
 
@@ -215,13 +215,13 @@ A set of deeply structured, topic-by-topic learning repos — not tutorials copi
 
 <div align="center">
 
-[![Education](https://img.shields.io/badge/Intermediate-Computer_Science-FF6B1A?style=for-the-badge&logo=bookstack&logoColor=0D1117&labelColor=0D1117)](https://github.com/ABUBAKARKHAN-Stack)
-[![School](https://img.shields.io/badge/FG_Boys_Inter_College-Karachi-FF6B1A?style=for-the-badge&logo=googlescholar&logoColor=0D1117&labelColor=0D1117)](https://github.com/ABUBAKARKHAN-Stack)
+[![Education](https://img.shields.io/badge/Intermediate-Computer_Science-ABC7A3?style=for-the-badge&logo=bookstack&logoColor=080C0A&labelColor=080C0A)](https://github.com/ABUBAKARKHAN-Stack)
+[![School](https://img.shields.io/badge/FG_Boys_Inter_College-Karachi-ABC7A3?style=for-the-badge&logo=googlescholar&logoColor=080C0A&labelColor=080C0A)](https://github.com/ABUBAKARKHAN-Stack)
 
 `Sep 2023 — Aug 2025` · Grade A
 
-[![Education](https://img.shields.io/badge/Matriculation-Computer_Science-FF6B1A?style=for-the-badge&logo=bookstack&logoColor=0D1117&labelColor=0D1117)](https://github.com/ABUBAKARKHAN-Stack)
-[![School](https://img.shields.io/badge/FG_Public_School-Karachi_Cantt-FF6B1A?style=for-the-badge&logo=googlescholar&logoColor=0D1117&labelColor=0D1117)](https://github.com/ABUBAKARKHAN-Stack)
+[![Education](https://img.shields.io/badge/Matriculation-Computer_Science-ABC7A3?style=for-the-badge&logo=bookstack&logoColor=080C0A&labelColor=080C0A)](https://github.com/ABUBAKARKHAN-Stack)
+[![School](https://img.shields.io/badge/FG_Public_School-Karachi_Cantt-ABC7A3?style=for-the-badge&logo=googlescholar&logoColor=080C0A&labelColor=080C0A)](https://github.com/ABUBAKARKHAN-Stack)
 
 `May 2021 — Jul 2023` · Grade A
 
@@ -233,10 +233,10 @@ A set of deeply structured, topic-by-topic learning repos — not tutorials copi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ABUBAKARKHAN-Stack&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FF6B1A&icon_color=FF6B1A&text_color=F4E8D8&ring_color=FF6B1A" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABUBAKARKHAN-Stack&theme=dark&hide_border=true&background=0D1117&ring=FF6B1A&fire=FF6B1A&currStreakLabel=FF6B1A&sideLabels=F4E8D8&currStreakNum=F4E8D8&sideNums=F4E8D8&dates=F4E8D8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ABUBAKARKHAN-Stack&show_icons=true&theme=transparent&hide_border=true&bg_color=080C0A&title_color=ABC7A3&icon_color=ABC7A3&text_color=E9ECE9&ring_color=ABC7A3" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABUBAKARKHAN-Stack&theme=dark&hide_border=true&background=080C0A&ring=ABC7A3&fire=ABC7A3&currStreakLabel=ABC7A3&sideLabels=E9ECE9&currStreakNum=E9ECE9&sideNums=E9ECE9&dates=E9ECE9" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABUBAKARKHAN-Stack&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FF6B1A&text_color=F4E8D8&langs_count=8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABUBAKARKHAN-Stack&layout=compact&theme=transparent&hide_border=true&bg_color=080C0A&title_color=ABC7A3&text_color=E9ECE9&langs_count=8" width="49%"/>
 
 </div>
 
@@ -256,7 +256,7 @@ A set of deeply structured, topic-by-topic learning repos — not tutorials copi
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABUBAKARKHAN-Stack&bg_color=0D1117&color=FF6B1A&line=FF6B1A&point=F4E8D8&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABUBAKARKHAN-Stack&bg_color=080C0A&color=ABC7A3&line=ABC7A3&point=E9ECE9&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -313,16 +313,16 @@ current_focus:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF6B1A?style=for-the-badge&logo=googlechrome&logoColor=0D1117)](https://codewithabubakar.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FF6B1A?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://www.linkedin.com/in/abubakar-aijaz-dev)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FF6B1A?style=for-the-badge&logo=instagram&logoColor=0D1117)](https://www.instagram.com/abubakar_aijaz/)
-[![X](https://img.shields.io/badge/X-FF6B1A?style=for-the-badge&logo=x&logoColor=0D1117)](https://x.com/abubakar_stacky)
-[![Email](https://img.shields.io/badge/EMAIL-FF6B1A?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:abubakar123456654123@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ABC7A3?style=for-the-badge&logo=googlechrome&logoColor=080C0A)](https://codewithabubakar.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ABC7A3?style=for-the-badge&logo=linkedin&logoColor=080C0A)](https://www.linkedin.com/in/abubakar-aijaz-dev)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-ABC7A3?style=for-the-badge&logo=instagram&logoColor=080C0A)](https://www.instagram.com/abubakar_aijaz/)
+[![X](https://img.shields.io/badge/X-ABC7A3?style=for-the-badge&logo=x&logoColor=080C0A)](https://x.com/abubakar_stacky)
+[![Email](https://img.shields.io/badge/EMAIL-ABC7A3?style=for-the-badge&logo=gmail&logoColor=080C0A)](mailto:abubakar123456654123@gmail.com)
 
 <br/>
 
 *"Transforming ideas into scalable systems — one commit at a time."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B1A,100:0D1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ABC7A3,100:080C0A&height=120&section=footer" width="100%"/>
 
 </div>
