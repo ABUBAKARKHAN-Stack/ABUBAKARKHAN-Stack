@@ -97,7 +97,7 @@ const dev = {
 | **Microservices & Kafka** | ⭐⭐⭐⭐ | Event-driven services, gateway auth, inter-service messaging |
 | **Python (Django/FastAPI)** | ⭐⭐⭐⭐ | APIs, async patterns, OOP, concurrency, data validation (Pydantic) |
 | **DevOps & Cloud** | ⭐⭐⭐⭐ | Docker, Linux, Vercel/Netlify/GCP deployment pipelines |
-| **CMS & Headless Content** | ⭐⭐⭐⭐ | Sanity CMS integration, portable text, multi-locale content |
+| **CMS & Headless Content** | ⭐⭐⭐⭐⭐ | Sanity CMS integration, portable text, multi-locale content |
 
 </div>
 
