@@ -260,16 +260,6 @@ A set of deeply structured, topic-by-topic learning repos — not tutorials copi
 
 <br/>
 
-## `$ ./run trophies.sh`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ABUBAKARKHAN-Stack&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
-<br/>
-
 ## `$ plot activity-graph --range=year`
 
 <div align="center">
@@ -291,16 +281,6 @@ A set of deeply structured, topic-by-topic learning repos — not tutorials copi
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ABUBAKARKHAN-Stack&theme=github_dark" width="49%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ABUBAKARKHAN-Stack&theme=github_dark&utcOffset=5" width="49%"/>
-
-</div>
-
-<br/>
-
-## `$ tail -f /dev/snake`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ABUBAKARKHAN-Stack/ABUBAKARKHAN-Stack/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
